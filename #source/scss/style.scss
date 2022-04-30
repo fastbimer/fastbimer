@@ -1,0 +1,40 @@
+*{
+   padding: 0;
+   margin: 0;
+   border: 0;
+}
+*,*before,*:after{
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+}
+:focus, :active{outline: none;}
+a:focus, a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+
+.binary {
+}
+.binary__block {
+   max-width: 1000px;
+   max-height: 920px;
+   min-height: 920px;
+
+}
+.header {
+   color: #fff;
+   text-align: center;
+   max-width: 800px;
+   margin: 0px auto;
+}
+.header__title {
+   font-size: 
+   margin: 0px 0 100px 0;
+}
+.header__subtitle {}
+.header__subtitle-title {}
+.header__subtitle-text {}
+.text {}
+.header__footer {}
+.header__botton {}
